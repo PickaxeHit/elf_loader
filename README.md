@@ -1,0 +1,1 @@
+Modified from [esp32-elfloader](https://github.com/niicoooo/esp32-elfloader/), distributed using GPLv2.
